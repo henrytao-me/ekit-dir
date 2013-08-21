@@ -12,10 +12,7 @@ var dir = require('ekit-dir');
 List all subdir in dir (not recursive)
 
 ```javascript
-dir.subdirs(__dirname, function(err, subdirs) {
-    if (err) throw err;
-    console.log(subdirs);
-});
+var subdir = dir.subdirs(__dirname);
 ```
 
 ## License
