@@ -18,10 +18,5 @@ dir.subdirs(__dirname, function(err, subdirs) {
 });
 ```
 
-#### contributors
-- [hungtaoquang](https://github.com/hungtaoquang)
-- [robatron](https://github.com/robatron)
-- [nazomikan](https://github.com/nazomikan)
-
 ## License
 MIT licensed (See LICENSE.txt)
