@@ -1,6 +1,6 @@
 {
   "name": "ekit-dir",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "A small node.js module to provide some convenience methods for dealing with dir.",
   "main": "index",
   "homepage": "https://github.com/henrytao-me/ekit-dir",
